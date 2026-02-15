@@ -23,7 +23,7 @@ Construindo APIs robustas e sistemas escalaveis.
 ### Tecnologias
 
 ```text
-Linguagens:    Python · Java · Go · Node.js
+Linguagens:    Python · Java · Go 
 Frameworks:    Django · Spring Boot · Express
 Banco de Dados: PostgreSQL · MongoDB · Redis
 DevOps:        Docker · AWS · CI/CD
